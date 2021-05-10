@@ -1,0 +1,4 @@
+Do tohoto adresáře uložte a do repozitáře nahrajte případnou knihovnu,
+která není součástí Javy (JDK 8) a kterou jste použili ve svém kódu,
+pokud ovšem nějakou takovou knihovnu využijete.
+Nezapomeňte tut skutečnost uvést v popisu programu.
