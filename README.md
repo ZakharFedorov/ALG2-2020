@@ -1,3 +1,3 @@
 # Zápočtová práce
 Repozitář pro odevzdání zápočtové práce
-# ALG2-2021
+# ALG2-2020
